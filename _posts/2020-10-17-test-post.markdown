@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "test post"
+date:   2020-10-17 12:15:00 -0700
+categories: test
+---
+this is a test post
